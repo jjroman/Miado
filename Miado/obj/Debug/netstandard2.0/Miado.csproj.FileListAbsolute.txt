@@ -1,0 +1,8 @@
+D:\Proyectos\Miado\Source\Miado\Miado\obj\Debug\netstandard2.0\Miado.csproj.CoreCompileInputs.cache
+D:\Proyectos\Miado\Source\Miado\Miado\obj\Debug\netstandard2.0\Miado.AssemblyInfoInputs.cache
+D:\Proyectos\Miado\Source\Miado\Miado\obj\Debug\netstandard2.0\Miado.AssemblyInfo.cs
+D:\Proyectos\Miado\Source\Miado\Miado\bin\Debug\netstandard2.0\Miado.deps.json
+D:\Proyectos\Miado\Source\Miado\Miado\bin\Debug\netstandard2.0\Miado.dll
+D:\Proyectos\Miado\Source\Miado\Miado\bin\Debug\netstandard2.0\Miado.pdb
+D:\Proyectos\Miado\Source\Miado\Miado\obj\Debug\netstandard2.0\Miado.dll
+D:\Proyectos\Miado\Source\Miado\Miado\obj\Debug\netstandard2.0\Miado.pdb

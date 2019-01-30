@@ -2,7 +2,7 @@
 Miado is a data-access layer with an intuitive and easy to use API which wraps around and improves upon the usage of straight ADO.Net code.
 
 
-#What is it?
+What is it?
 Miado is not yet-another-ORM library. If you are looking for an ORM tool and/or SQL generator, look at LINQ, NHibernate, Subsonic, etc.
 
 However, if you need or want to use the power of straight-up SQL, Stored Procedures, and ADO.Net, Miado offers:
@@ -15,7 +15,7 @@ Ability to easily create custom business objects from ADO.Net result sets
 Support for easy unit testing and mocking
 Simple integration in PowerShell scripts since data access code is much less verbose
 
-#Purpose:
+Purpose:
 I migrated it from its archive in Codeplex: https://archive.codeplex.com/?p=miado, and I created a .Net standard library to use it.
 The main purpose is to migrate systems that are using this library to .net core.
 

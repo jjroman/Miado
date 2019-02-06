@@ -16,8 +16,8 @@ Support for easy unit testing and mocking
 Simple integration in PowerShell scripts since data access code is much less verbose
 
 # Purpose
-I migrated it from its archive in Codeplex: https://archive.codeplex.com/?p=miado, and I created a .Net standard library to use it.
-The main purpose is to migrate systems that are using this library to .net core.
+I migrated it from its archive in Codeplex: https://archive.codeplex.com/?p=miado and I created a .Net standard library to use it.
+The main purpose is be able to migrate systems that are using this library to .net core.
 
 I don't know who was the original author of this library, if anyone requires this, let me know and I can share it.
 

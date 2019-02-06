@@ -20,3 +20,8 @@ I migrated it from its archive in Codeplex: https://archive.codeplex.com/?p=miad
 The main purpose is to migrate systems that are using this library to .net core.
 
 I don't know who was the original author of this library, if anyone requires this, let me know and I can share it.
+
+#Nuget
+
+You can find this in Nuget too: https://www.nuget.org/packages/Miado/
+

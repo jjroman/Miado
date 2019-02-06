@@ -15,7 +15,7 @@ Ability to easily create custom business objects from ADO.Net result sets
 Support for easy unit testing and mocking
 Simple integration in PowerShell scripts since data access code is much less verbose
 
-Purpose:
+# Purpose
 I migrated it from its archive in Codeplex: https://archive.codeplex.com/?p=miado, and I created a .Net standard library to use it.
 The main purpose is to migrate systems that are using this library to .net core.
 
